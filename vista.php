@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Formulario con un solo campo</title>
-    <link rel="stylesheet" type="text/css" href="estil.css">
+    <!--<link rel="stylesheet" type="text/css" href="estil.css">-->
 </head>
 <body>
     <h1>Calculadora de nombres i strings</h1>
